@@ -1,0 +1,22 @@
+Variables: 
+
+Var
+let 
+const
+
+Data Types:
+number, string, boolean, null, undefined
+
+Operators:
+1. Arithmatic Operators:
++, -, *, /, %
+
+2. Assignment Operators:
+=, +=, -=, *=, /=, %=
+
+3. Compairison Operators
+
+4. Logical Operators
+
+a = 10
+a += 5, a = a + 5
